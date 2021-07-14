@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Funding My Work
 - 💬 Ask me about UNITY
 - 📫 How to reach me: Instagram: https://www.instagram.com/akaashgarg/ , Facebook: https://www.facebook.com/akaash.garg
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/His
+
 
