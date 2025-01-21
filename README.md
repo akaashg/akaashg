@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Game Development with UNITY
 - 🤔 I’m looking for help with Funding My Work
 - 💬 Ask me about UNITY
-- 📫 How to reach me: Instagram: https://www.instagram.com/akaashgarg/ , Facebook: https://www.facebook.com/akaash.garg
+- 📫 How to reach me: Instagram: 
 - 😄 Pronouns: He/His
 
 
