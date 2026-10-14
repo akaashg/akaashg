@@ -92,5 +92,8 @@ and what shipped — are written up properly:
 
 <p align="center">
   Open to XR, Unity, and interactive-product engineering work.<br/>
-  <a href="https://akaashgarg.com/portfolio/?utm_source=github&utm_medium=profile_readme&utm_campaign=profile&utm_content=footer">akaashgarg.com/portfolio</a>
+  <a href="https://akaashgarg.com/portfolio/?utm_source=github&utm_medium=profile_readme&utm_campaign=profile&utm_content=footer">akaashgarg.com</a>
+
+  cal.com/akaash-garg-xvijkt/hi
+  
 </p>
